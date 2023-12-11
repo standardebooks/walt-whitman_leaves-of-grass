@@ -1,2 +1,102 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+q{
+	font-style: italic;
+}
+
+/* Poetry */
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
+p span.i1{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 4em;
+	text-indent: -1em;
+}
+
+p span.i3{
+	padding-left: 5em;
+	text-indent: -1em;
+}
+
+p span.i4{
+	padding-left: 6em;
+	text-indent: -1em;
+}
+
+/* Bridgeheads */
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	margin: 1em auto;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+
+[epub|type~="bridgehead"] i{
+	font-style: normal;
+}
+
+/* Section speaker labels */
+section > .speaker + *{
+	margin-top: -1em;
+}
+
+/* Epigraph */
+[epub|type~="epigraph"]{
+	hyphens: none;
+	-epub-hyphens: none;
+}
+
+section[epub|type~="epigraph"]{
+	text-align: center;
+}
+
+section[epub|type~="epigraph"] > *{
+	display: inline-block;
+	margin: auto;
+	margin-top: 20vh;
+	max-width: 80%;
+	text-align: initial;
+}
+
+@supports(display: flex){
+	section[epub|type~="epigraph"]{
+		align-items: center;
+		box-sizing: border-box;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		min-height: calc(98vh - 3em);
+		padding-top: 3em;
+	}
+
+	section[epub|type~="epigraph"] > *{
+		margin: 0;
+	}
+}

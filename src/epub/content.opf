@@ -76,15 +76,95 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-broadway-pageant.xhtml" id="a-broadway-pageant.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-song-for-occupations.xhtml" id="a-song-for-occupations.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-song-of-joys.xhtml" id="a-song-of-joys.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-song-of-the-rolling-earth.xhtml" id="a-song-of-the-rolling-earth.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/afterword.xhtml" id="afterword.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/autumn-rivulets.xhtml" id="autumn-rivulets.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/birds-of-passage.xhtml" id="birds-of-passage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/by-blue-ontarios-shore.xhtml" id="by-blue-ontarios-shore.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/by-the-roadside.xhtml" id="by-the-roadside.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/calamus.xhtml" id="calamus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/children-of-adam.xhtml" id="children-of-adam.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/crossing-brooklyn-ferry.xhtml" id="crossing-brooklyn-ferry.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/drum-taps.xhtml" id="drum-taps.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/from-noon-to-starry-night.xhtml" id="from-noon-to-starry-night.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/good-bye-my-fancy.xhtml" id="good-bye-my-fancy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/inscriptions.xhtml" id="inscriptions.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/memories-of-president-lincoln.xhtml" id="memories-of-president-lincoln.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/old-age-echoes.xhtml" id="old-age-echoes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/our-old-feuillage.xhtml" id="our-old-feuillage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/passage-to-india.xhtml" id="passage-to-india.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prayer-of-columbus.xhtml" id="prayer-of-columbus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/proud-music-of-the-storm.xhtml" id="proud-music-of-the-storm.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/salut-au-monde.xhtml" id="salut-au-monde.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sands-at-seventy.xhtml" id="sands-at-seventy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sea-drift.xhtml" id="sea-drift.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/song-of-myself.xhtml" id="song-of-myself.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/song-of-the-answerer.xhtml" id="song-of-the-answerer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/song-of-the-broad-axe.xhtml" id="song-of-the-broad-axe.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/song-of-the-exposition.xhtml" id="song-of-the-exposition.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/song-of-the-open-road.xhtml" id="song-of-the-open-road.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/song-of-the-redwood-tree.xhtml" id="song-of-the-redwood-tree.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/songs-of-parting.xhtml" id="songs-of-parting.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/starting-from-paumanok.xhtml" id="starting-from-paumanok.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sleepers.xhtml" id="the-sleepers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/thou-mother-with-thy-equal-brood.xhtml" id="thou-mother-with-thy-equal-brood.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/to-think-of-time.xhtml" id="to-think-of-time.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/whispers-of-heavenly-death.xhtml" id="whispers-of-heavenly-death.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="epigraph.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="inscriptions.xhtml"/>
+		<itemref idref="starting-from-paumanok.xhtml"/>
+		<itemref idref="song-of-myself.xhtml"/>
+		<itemref idref="children-of-adam.xhtml"/>
+		<itemref idref="calamus.xhtml"/>
+		<itemref idref="salut-au-monde.xhtml"/>
+		<itemref idref="song-of-the-open-road.xhtml"/>
+		<itemref idref="crossing-brooklyn-ferry.xhtml"/>
+		<itemref idref="song-of-the-answerer.xhtml"/>
+		<itemref idref="our-old-feuillage.xhtml"/>
+		<itemref idref="a-song-of-joys.xhtml"/>
+		<itemref idref="song-of-the-broad-axe.xhtml"/>
+		<itemref idref="song-of-the-exposition.xhtml"/>
+		<itemref idref="song-of-the-redwood-tree.xhtml"/>
+		<itemref idref="a-song-for-occupations.xhtml"/>
+		<itemref idref="a-song-of-the-rolling-earth.xhtml"/>
+		<itemref idref="birds-of-passage.xhtml"/>
+		<itemref idref="a-broadway-pageant.xhtml"/>
+		<itemref idref="sea-drift.xhtml"/>
+		<itemref idref="by-the-roadside.xhtml"/>
+		<itemref idref="drum-taps.xhtml"/>
+		<itemref idref="memories-of-president-lincoln.xhtml"/>
+		<itemref idref="by-blue-ontarios-shore.xhtml"/>
+		<itemref idref="autumn-rivulets.xhtml"/>
+		<itemref idref="proud-music-of-the-storm.xhtml"/>
+		<itemref idref="passage-to-india.xhtml"/>
+		<itemref idref="prayer-of-columbus.xhtml"/>
+		<itemref idref="the-sleepers.xhtml"/>
+		<itemref idref="to-think-of-time.xhtml"/>
+		<itemref idref="whispers-of-heavenly-death.xhtml"/>
+		<itemref idref="thou-mother-with-thy-equal-brood.xhtml"/>
+		<itemref idref="from-noon-to-starry-night.xhtml"/>
+		<itemref idref="songs-of-parting.xhtml"/>
+		<itemref idref="sands-at-seventy.xhtml"/>
+		<itemref idref="good-bye-my-fancy.xhtml"/>
+		<itemref idref="old-age-echoes.xhtml"/>
+		<itemref idref="afterword.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

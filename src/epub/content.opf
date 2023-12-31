@@ -36,12 +36,15 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">The definitive collection of Walt Whitman’s poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/walt-whitman"&gt;Walt Whitman&lt;/a&gt; consciously set out to forge a personal path for himself as a poet. Inspired by contemporaries (&lt;a href="https://standardebooks.org/ebooks/ralph-waldo-emerson"&gt;Emerson&lt;/a&gt; in particular) who expressed a need for a new, uniquely American style of poetry, Whitman eschewed conventions he saw as outdated or undemocratic. Setting aside traditional rhyme, meter, and even brevity, Whitman favored a style that was declarative, direct, and maximalist. For subject matter he focused on the common individual, as democratic representative of all humanity, and the natural world of which humanity exists as an integral part. “Song of Myself” is perhaps the most well-known exemplar of this aesthetic.&lt;/p&gt;
+			&lt;p&gt;Whitman’s poetic career took an abrupt turn during the American Civil War, and his poems from that time draw on his experiences volunteering at military hospitals. These, coupled with his elegy for President Lincoln after his assassination (“When Lilacs Last in the Dooryard Bloom’d”), helped to cement Whitman’s position as a particularly American voice.&lt;/p&gt;
+			&lt;p&gt;Among Whitman’s recurring themes are the embracing of sensual pleasures, including frank acknowledgements of homosexuality. This latter aspect drove several contemporary critics to reject his work as indecent. Threats of censorship and outright banning encouraged his supporters to speak more publicly in defense of his work, however, and Whitman is now considered to be one of America’s most important poets.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Leaves of Grass&lt;/i&gt; was continually edited and extended over most of Whitman’s life. Months before his death, he announced that the next edition would be the complete and definitive version of Leaves of Grass. Referred to now as the “deathbed edition,” it was published in 1892 by Whitman’s literary executors, and is the basis for this ebook.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1322</dc:source>
 		<dc:source>https://archive.org/details/leavesgrass03whitgoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Spelling is modernized in the prose sections: namely the afterword, the preface to Book 35, and the endnotes. Spelling is not modernized elsewhere, despite the inconsistencies this introduces (e.g. “Shakspere” vs. “Shakespeare”). Spelling is also not modernized in the bridgeheads, since like the titles they are part of the poems even though they are sometimes formatted as prose.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leaves_of_Grass</meta>

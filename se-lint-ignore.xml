@@ -42,12 +42,6 @@
 			<reason>Error in titlecase checking.</reason>
 		</ignore>
 	</file>
-	<file path="salut-au-monde.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Error in titlecase checking.</reason>
-		</ignore>
-	</file>
 	<file path="sands-at-seventy.xhtml">
 		<ignore>
 			<code>s-023</code>

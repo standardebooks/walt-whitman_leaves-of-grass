@@ -64,7 +64,7 @@ p span.i4{
 
 /* Section speaker labels */
 section > .speaker + *{
-	margin-top: -1em;
+	margin-top: 0;
 }
 
 /* Epigraph */
@@ -99,16 +99,4 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-}
-
-/* Make poems with h3 section numbers consistent in formatting. */
-section[epub|type~="chapter"] > section[epub|type~="part"] > h3{
-	font-size: 1em;
-}
-
-#a-song-of-the-rolling-earth-article h3,
-#by-blue-ontarios-shore-article h3,
-#the-sleepers-article h3,
-#thou-mother-with-thy-equal-brood-article h3{
-	font-size: 1em;
 }

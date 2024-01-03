@@ -45,7 +45,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1322</dc:source>
 		<dc:source>https://archive.org/details/leavesgrass03whitgoog</dc:source>
 		<meta property="se:production-notes">Spelling is modernized in the prose sections: namely the afterword, the preface to Book 35, and the endnotes. Spelling is not modernized elsewhere, despite the inconsistencies this introduces (e.g. “Shakspere” vs. “Shakespeare”). Spelling is also not modernized in the bridgeheads, since like the titles they are part of the poems even though they are sometimes formatted as prose.</meta>
-		<meta property="se:word-count">133558</meta>
+		<meta property="se:word-count">133525</meta>
 		<meta property="se:reading-ease.flesch">53.58</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leaves_of_Grass</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/walt-whitman_leaves-of-grass</meta>
@@ -102,7 +102,7 @@
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/epigraph.xhtml" id="epigraph.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/from-noon-to-starry-night.xhtml" id="from-noon-to-starry-night.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/good-bye-my-fancy.xhtml" id="good-bye-my-fancy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/goodbye-my-fancy.xhtml" id="goodbye-my-fancy.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/inscriptions.xhtml" id="inscriptions.xhtml" media-type="application/xhtml+xml"/>
@@ -170,7 +170,7 @@
 		<itemref idref="from-noon-to-starry-night.xhtml"/>
 		<itemref idref="songs-of-parting.xhtml"/>
 		<itemref idref="sands-at-seventy.xhtml"/>
-		<itemref idref="good-bye-my-fancy.xhtml"/>
+		<itemref idref="goodbye-my-fancy.xhtml"/>
 		<itemref idref="old-age-echoes.xhtml"/>
 		<itemref idref="afterword.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>

@@ -12,22 +12,22 @@
 			<reason>Bridgehead text is in parentheses.</reason>
 		</ignore>
 	</file>
-	<file path="good-bye-my-fancy.xhtml">
+	<file path="goodbye-my-fancy.xhtml">
 		<ignore>
 			<code>t-061</code>
 			<reason>Bridgehead text is in parentheses.</reason>
+		</ignore>
+	</file>
+	<file path="goodbye-my-fancy.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Error in titlecase checking.</reason>
 		</ignore>
 	</file>
 	<file path="autumn-rivulets.xhtml">
 		<ignore>
 			<code>t-065</code>
 			<reason>Title ends in an abbreviation.</reason>
-		</ignore>
-	</file>
-	<file path="good-bye-my-fancy.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Error in titlecase checking.</reason>
 		</ignore>
 	</file>
 	<file path="memories-of-president-lincoln.xhtml">

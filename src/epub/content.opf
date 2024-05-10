@@ -46,7 +46,7 @@
 		<dc:source>https://archive.org/details/leavesgrass03whitgoog</dc:source>
 		<meta property="se:production-notes">Spelling is modernized in the prose sections: namely the afterword, the preface to Book 35, and the endnotes. Spelling is not modernized elsewhere, despite the inconsistencies this introduces (e.g. “Shakspere” vs. “Shakespeare”). Spelling is also not modernized in the bridgeheads, since like the titles they are part of the poems even though they are sometimes formatted as prose.</meta>
 		<meta property="se:word-count">133525</meta>
-		<meta property="se:reading-ease.flesch">53.58</meta>
+		<meta property="se:reading-ease.flesch">53.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leaves_of_Grass</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/walt-whitman_leaves-of-grass</meta>
 		<dc:creator id="author">Walt Whitman</dc:creator>

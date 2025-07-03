@@ -18,12 +18,6 @@
 			<reason>Bridgehead text is in parentheses.</reason>
 		</ignore>
 	</file>
-	<file path="goodbye-my-fancy.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>Error in titlecase checking.</reason>
-		</ignore>
-	</file>
 	<file path="autumn-rivulets.xhtml">
 		<ignore>
 			<code>t-065</code>

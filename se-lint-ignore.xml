@@ -1,42 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="autumn-rivulets.xhtml">
-		<ignore>
-			<code>t-065</code>
+		<ignore code="t-065">
 			<reason>Title ends in an abbreviation.</reason>
 		</ignore>
 	</file>
 	<file path="by-blue-ontarios-shore.xhtml">
-		<ignore>
-			<code>t-048</code>
+		<ignore code="t-048">
 			<reason>The linter mistakes "O I see" as a chapter starting in all-caps.</reason>
 		</ignore>
 	</file>
 	<file path="goodbye-my-fancy.xhtml">
-		<ignore>
-			<code>t-061</code>
+		<ignore code="t-061">
 			<reason>Bridgehead text is in parentheses.</reason>
 		</ignore>
 	</file>
 	<file path="memories-of-president-lincoln.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>Error in titlecase checking.</reason>
 		</ignore>
 	</file>
 	<file path="old-age-echoes.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>Error in titlecase checking.</reason>
 		</ignore>
 	</file>
 	<file path="sands-at-seventy.xhtml">
-		<ignore>
-			<code>s-023</code>
+		<ignore code="s-023">
 			<reason>Error in titlecase checking.</reason>
 		</ignore>
-		<ignore>
-			<code>t-061</code>
+		<ignore code="t-061">
 			<reason>Bridgehead text is in parentheses.</reason>
 		</ignore>
 	</file>

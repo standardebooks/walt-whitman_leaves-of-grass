@@ -1,0 +1,1 @@
+Spelling is modernized in the prose sections: namely the afterword, the preface to Book 35, and the endnotes. Spelling is not modernized elsewhere, despite the inconsistencies this introduces (e.g. “Shakspere” vs. “Shakespeare”). Spelling is also not modernized in the bridgeheads, since like the titles they are part of the poems even though they are sometimes formatted as prose.

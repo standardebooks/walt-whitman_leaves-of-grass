@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/walt-whitman/leaves-of-grass</dc:identifier>
 		<dc:date>2024-01-02T19:53:47Z</dc:date>
@@ -35,13 +35,13 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85004386</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:description id="description">The definitive collection of Walt Whitman’s poetry.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The definitive collection of Walt Whitman’s poetry.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/walt-whitman"&gt;Walt Whitman&lt;/a&gt; consciously set out to forge a personal path for himself as a poet. Inspired by contemporaries like &lt;a href="https://standardebooks.org/ebooks/ralph-waldo-emerson"&gt;Emerson&lt;/a&gt; who expressed a need for a new, uniquely American style of poetry, Whitman eschewed conventions he saw as outdated or undemocratic. Setting aside traditional rhyme, meter, and even brevity, Whitman favored a style that was declarative, direct, and maximalist. For subject matter he focused on the common individual, as democratic representative of all humanity, and the natural world of which humanity exists as an integral part. “Song of Myself” is perhaps the most well-known exemplar of this aesthetic.&lt;/p&gt;
 			&lt;p&gt;Whitman’s poetic career took an abrupt turn during the American Civil War, and his poems from that time draw on his experiences volunteering at military hospitals. These, coupled with his elegy for President Lincoln after his assassination (“When Lilacs Last in the Dooryard Bloom’d”), helped to cement Whitman’s position as a particularly American voice.&lt;/p&gt;
 			&lt;p&gt;Among Whitman’s recurring themes are the embracing of sensual pleasures, including frank acknowledgments of homosexuality. This latter aspect drove several contemporary critics to reject his work as indecent. Threats of censorship and outright banning encouraged his supporters to speak more publicly in defense of his work, however, and Whitman is now considered to be one of America’s most important poets.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Leaves of Grass&lt;/i&gt; was continually edited and extended over most of Whitman’s life. Months before his death, he announced that the next edition would be the complete and definitive one. Referred to now as the “deathbed edition,” it was published in 1892 by Whitman’s literary executors, and is the basis for this ebook.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1322</dc:source>
 		<dc:source>https://archive.org/details/leavesgrass03whitgoog</dc:source>

@@ -35,7 +35,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85004386</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>The definitive collection of Walt Whitman’s poetry.</dc:abstract>
+		<meta property="schema:abstract">The definitive collection of Walt Whitman’s poetry.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/walt-whitman"&gt;Walt Whitman&lt;/a&gt; consciously set out to forge a personal path for himself as a poet. Inspired by contemporaries like &lt;a href="https://standardebooks.org/ebooks/ralph-waldo-emerson"&gt;Emerson&lt;/a&gt; who expressed a need for a new, uniquely American style of poetry, Whitman eschewed conventions he saw as outdated or undemocratic. Setting aside traditional rhyme, meter, and even brevity, Whitman favored a style that was declarative, direct, and maximalist. For subject matter he focused on the common individual, as democratic representative of all humanity, and the natural world of which humanity exists as an integral part. “Song of Myself” is perhaps the most well-known exemplar of this aesthetic.&lt;/p&gt;
 			&lt;p&gt;Whitman’s poetic career took an abrupt turn during the American Civil War, and his poems from that time draw on his experiences volunteering at military hospitals. These, coupled with his elegy for President Lincoln after his assassination (“When Lilacs Last in the Dooryard Bloom’d”), helped to cement Whitman’s position as a particularly American voice.&lt;/p&gt;

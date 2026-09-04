@@ -31,7 +31,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Leaves of Grass</dc:title>
 		<meta property="file-as" refines="#title">Leaves of Grass</meta>
-		<dc:subject id="subject-1">American poetry -- 19th century</dc:subject>
+		<dc:subject id="subject-1">American poetry--19th century</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85004386</meta>
 		<meta property="schema:genre">Poetry</meta>
